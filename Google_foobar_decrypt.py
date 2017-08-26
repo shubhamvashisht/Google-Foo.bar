@@ -21,3 +21,6 @@ for a,b in enumerate(dec_bytes):
 
 #The encypted message
 print("".join(decrypted_message))
+
+#decoded message
+"""{'success' : 'great', 'colleague' : 'esteemed', 'efforts' : 'incredible', 'achievement' : 'unlocked', 'rabbits' : 'safe', 'foo' : 'win!'}"""
